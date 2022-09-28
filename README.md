@@ -6,7 +6,7 @@
 * CSS
 * Javascript
 
-## 🔗Live Link -: [Youtube Clone ](https://mayurpatillll.github.io/Dog-Image-Generator-Javascript)
+## 🔗Live Link -: [Dog Image Generator ](https://mayurpatillll.github.io/Dog-Image-Generator-Javascript)
 
 
 
